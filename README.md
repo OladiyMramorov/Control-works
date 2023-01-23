@@ -13,7 +13,7 @@
 
 Блок-схема алгоритма:
 
-<img src="/Users/yaroslav/Desktop/Control works/Diagram/Diagram.png" alt="Diagram">
+<img src="https://github.com/OladiyMramorov/Control-works/blob/main/Diagram/Diagram.png?raw=true" alt="Diagram">
 
 Программа:
 
