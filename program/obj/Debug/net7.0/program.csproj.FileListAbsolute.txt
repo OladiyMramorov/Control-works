@@ -1,0 +1,15 @@
+/Users/yaroslav/Desktop/Control works/program/obj/Debug/net7.0/program.csproj.AssemblyReference.cache
+/Users/yaroslav/Desktop/Control works/program/obj/Debug/net7.0/program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslav/Desktop/Control works/program/obj/Debug/net7.0/program.AssemblyInfoInputs.cache
+/Users/yaroslav/Desktop/Control works/program/obj/Debug/net7.0/program.AssemblyInfo.cs
+/Users/yaroslav/Desktop/Control works/program/obj/Debug/net7.0/program.csproj.CoreCompileInputs.cache
+/Users/yaroslav/Desktop/Control works/program/bin/Debug/net7.0/program
+/Users/yaroslav/Desktop/Control works/program/bin/Debug/net7.0/program.deps.json
+/Users/yaroslav/Desktop/Control works/program/bin/Debug/net7.0/program.runtimeconfig.json
+/Users/yaroslav/Desktop/Control works/program/bin/Debug/net7.0/program.dll
+/Users/yaroslav/Desktop/Control works/program/bin/Debug/net7.0/program.pdb
+/Users/yaroslav/Desktop/Control works/program/obj/Debug/net7.0/program.dll
+/Users/yaroslav/Desktop/Control works/program/obj/Debug/net7.0/refint/program.dll
+/Users/yaroslav/Desktop/Control works/program/obj/Debug/net7.0/program.pdb
+/Users/yaroslav/Desktop/Control works/program/obj/Debug/net7.0/program.genruntimeconfig.cache
+/Users/yaroslav/Desktop/Control works/program/obj/Debug/net7.0/ref/program.dll
